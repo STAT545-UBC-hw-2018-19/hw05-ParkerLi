@@ -3,9 +3,9 @@
 This repository is the homepage of *Homework 05* of the course STAT545A, taught by [Vincenzo Coia](https://github.com/vincenzocoia)
 at the University of British Columbia (UBC). 
 
-- Rmd file is [here]().
-- md file is [here]().
-
+- Rmd file is [here](https://github.com/STAT545-UBC-students/hw05-ParkerLi/blob/master/hw05_YongzhengParkerLi.Rmd).
+- md file is [here](https://github.com/STAT545-UBC-students/hw05-ParkerLi/blob/master/hw05_YongzhengParkerLi.md).
+- I have also uploaded other necessary files (pics, generated csv, etc.)
 
 - The detailed requirements of this assignment could be found [here](http://stat545.com/Classroom/assignments/hw05/hw05.html). 
 - The STAT545A course page is [here](http://stat545.com/Classroom/).
